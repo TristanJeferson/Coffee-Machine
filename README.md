@@ -1,6 +1,6 @@
 <div align="center">
 
-![Coffee Machine](https://github.com/TristanJeferson/Coffee-Machine/assets/75498189/50314031-d76b-451d-8d7a-ef2bdc8c23fb) 
+![Coffee Machine](https://i.imgur.com/8PlqX1z.png) 
   
 </div>
 
